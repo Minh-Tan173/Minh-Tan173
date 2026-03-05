@@ -1,5 +1,7 @@
 ## Hi there, I'm Minh Tân! 🎮
 
+# About me:
+I am an **Independent Unity Game Developer** focused on building robust gameplay systems and scalable architectures.
 <!--
 **Minh-Tan173/Minh-Tan173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
