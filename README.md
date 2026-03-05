@@ -6,7 +6,7 @@ I am currently looking for an **Internship** opportunity to contribute my skills
 
 # 🌱 Technical Skills
 * **Game Engine:** Unity (2D/3D), focusing on core gameplay mechanics.
-* **Programing**: Strong grasp of C# and OOP.
+* **Programing**: Proficient in C# and OOP.
 
 # 🚀 Highlight Project: Realmguard Bastion
 This is my main solo project where I applied everything I've learned about game systems:
