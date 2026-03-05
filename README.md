@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Minh Tân! 🎮
 
 <!--
 **Minh-Tan173/Minh-Tan173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
