@@ -1,18 +1,20 @@
-## Hi there, I'm Minh Tân! 🎮
+# Hi there, I'm Minh Tan! 🎮
 
-# About me:
-I am an **Independent Unity Game Developer** focused on building robust gameplay systems and scalable architectures.
-<!--
-**Minh-Tan173/Minh-Tan173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a final-year student and an aspiring **Independent Unity Game Developer**. I have a strong passion for building gameplay systems from the ground up and exploring procedural algorithms in game development.
 
-Here are some ideas to get you started:
+I am currently looking for an **Internship** opportunity to contribute my skills and learn from professional environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🌱 Technical Skills
+* **Game Engine:** Unity (2D/3D), focusing on core gameplay mechanics.
+* **Programing**: Strong grasp of C# and OOP.
+
+# 🚀 Highlight Project: Realmguard Bastion
+This is my main solo project where I applied everything I've learned about game systems:
+* **Self-developed Procedural Map System:** Built a custom algorithm to generate unique paths and environments for each play session.
+* **Handwritten Logic:** 100% of the source code is written by me, focusing on clean and organized structure.
+* **Problem Solving:** Successfully implemented a grid-based data system to manage complex map states.
+
+### 📫 Contact & Connect
+* **Email:** minhtanjjjj@gmail.com
+* **Facebook:** https://www.facebook.com/you.mustleavemyprofile/)
+* **Location:** HaNoi, Vietnam
