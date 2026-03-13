@@ -17,4 +17,5 @@ This is my main solo project where I applied everything I've learned about game 
 ### 📫 Contact & Connect
 * **Email:** minhtanjjjj@gmail.com
 * **Facebook:** https://www.facebook.com/you.mustleavemyprofile/
+* **Itch.io:** https://minh-tan173.itch.io/
 * **Location:** HaNoi, Vietnam
